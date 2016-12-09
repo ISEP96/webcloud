@@ -1,0 +1,41 @@
+Ls /etc
+| less : sortie extérieur 
+man less
+man ls
+find -name "*conf"
+find /etc / -name "*confi" -type f
+
+Globbing ( ss ensemble d'expression irréguliaire)
+S'intaxer (Regex "papa")
+
+Cloud: louer des machines virtuelles (amazon Web service)
+(externalisation des données) 
+
+Virtual boxes fassent un travail et la louer son exploitation (hebergeur client)
+possibilite d'avoir 2 systèmes d'exploitations
+
+Noyau de 
+
+Saas: software as a service (Drive, gmail)
+
+Paas: Plateform
+
+CaaS: computing															digital ocean
+
+IaaS: infrastruture 
+Créer un dépot de code sur github. déployé un site sur github. faire un min-site web index.html et permettre de le déploiyé (doit avoir les intructions)
+Ligner de commande 
+
+login du prof sur github (bzg)
+
+depôt web cloud,
+éditer votre README.wd
+
+ssh: secure shell
+
+Debian 8
+Ubuntu 16
+ssh root@146.128.4.16
+git clone HTTPS://github.com/[users]/webcloud]/home/[user].ssh/
+
+Lancer un serveur web, installer engie
