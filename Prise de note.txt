@@ -1,18 +1,18 @@
 Ls /etc
-| less : sortie extÈrieur 
+| less : sortie ext√©rieur 
 man less
 man ls
 find -name "*conf"
 find /etc / -name "*confi" -type f
 
-Globbing ( ss ensemble d'expression irrÈguliaire)
+Globbing ( ss ensemble d'expression irr√©guliaire)
 S'intaxer (Regex "papa")
 
 Cloud: louer des machines virtuelles (amazon Web service)
-(externalisation des donnÈes) 
+(externalisation des donn√©es) 
 
 Virtual boxes fassent un travail et la louer son exploitation (hebergeur client)
-possibilite d'avoir 2 systËmes d'exploitations
+possibilite d'avoir 2 syst√®mes d'exploitations
 
 Noyau de 
 
@@ -23,13 +23,13 @@ Paas: Plateform
 CaaS: computing															digital ocean
 
 IaaS: infrastruture 
-CrÈer un dÈpot de code sur github. dÈployÈ un site sur github. faire un min-site web index.html et permettre de le dÈploiyÈ (doit avoir les intructions)
+Cr√©er un d√©pot de code sur github. d√©ploy√© un site sur github. faire un min-site web index.html et permettre de le d√©ploiy√© (doit avoir les intructions)
 Ligner de commande 
 
 login du prof sur github (bzg)
 
-depÙt web cloud,
-Èditer votre README.wd
+dep√¥t web cloud,
+√©diter votre README.wd
 
 ssh: secure shell
 
@@ -39,3 +39,9 @@ ssh root@146.128.4.16
 git clone HTTPS://github.com/[users]/webcloud]/home/[user].ssh/
 
 Lancer un serveur web, installer engie
+
+Cours du 06/01/2017
+les cl√©s SSH secure shell: cl√© public et cl√© priv√© 
+cl√© public dans le serveurs distant
+En ce connecte de moins en moins avec les password mais de plus en plus avec les cl√©s public et priv√© pour avoir plus de securit√©.
+
