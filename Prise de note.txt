@@ -44,4 +44,5 @@ Cours du 06/01/2017
 les clés SSH secure shell: clé public et clé privé 
 clé public dans le serveurs distant
 En ce connecte de moins en moins avec les password mais de plus en plus avec les clés public et privé pour avoir plus de securité.
+Plusieur méthode peuvent être utilisé pour trouver les clés public et privé https et git.
 
