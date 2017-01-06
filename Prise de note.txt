@@ -64,6 +64,11 @@ Copier l'addresse IP dans un navigateur pour voir (welcome nginx)
 cd/var/www/html
 nano index.html
 cron
+Devoir la semaine prochaine,
 
+Permission de fichier sous linux
+Redirection ("pipe")
+echo "bonjour"> index.html
+Site web en utilisant cron et un script, sur un fichier html 
 
 
