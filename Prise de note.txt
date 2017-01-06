@@ -46,3 +46,24 @@ clé public dans le serveurs distant
 En ce connecte de moins en moins avec les password mais de plus en plus avec les clés public et privé pour avoir plus de securité.
 Plusieur méthode peuvent être utilisé pour trouver les clés public et privé https et git.
 
+// code
+apt-get update
+apt-get upgrade
+apt-get install
+Copier l'addresse IP dans un navigateur pour voir (welcome nginx)
+ cd /var/ww/html
+ nano index.html
+ 
+ cd
+ nano date sh
+ #!/bin/bash
+ echo 'date'
+ [c-°]
+ [c-x]
+ 
+cd/var/www/html
+nano index.html
+cron
+
+
+
