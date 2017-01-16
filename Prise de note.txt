@@ -179,6 +179,21 @@ ctrl x (pour enresgitre et sortie du fichier)
  ls -l test.sh (afficher les permissions rwx)
  password: alicepahin
  
+ Problème de connexion:
+ ssh-add.exe .\github_rsa (permet de se connecter sans mots de passes)
+ ssh root@178.62.53.220 (pour la connection)
+ 
+ les commentaires en bash commence par #
+ 
+ Sur github: créer un dépôt ( avec un README)
+ en local: git clone depot
+ en local: écrire depot .sh
+ en local: git add *
+ git commit _"message"
+ git push
+ 
+ sur github : vérifier que le depot.sh
+ en local: envoyer le lien du depôt à bzg@bzg.fr
  
  
  
