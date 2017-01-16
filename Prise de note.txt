@@ -91,13 +91,74 @@ Mettre à jour les fichiers,
 Installer nginx
 
 Permission de Unix: Utilisateur, groupe, others 
-r= read
-w=write
-x=exécuter un fichier
+r= read 4
+w=write 2
+x=exécuter un fichier 1
 
-Utilisateur ( rwx)
-groupe ( r_x)
-others ( r__)
+Utilisateur ( rwx) 7
+groupe ( r_x) 5
+others ( r__) 4
+ f: 644 : 
+ alpa : 755
+ ~$ chown (change l'extension) user: user file.txt or date.sh
+ ~$ chmod 
+
+
+// code
+~$ prog 
+> votre nom? user
+> hello user!
+
+~$ prog "user"
+>Hello user!
+
+ Or 
+ 
+ ~$ Var="user"
+ >prog var
+ 
+ 
+ ~$export Nom="user"
+ ~$ echo $Nom
+>"user"
+
+#!/bin/bash      ( ce programme detecter la première variable introduite)
+echo $1
+
+
+~$ prog < nom.txt
+entrée standard (stdin input)
+sortie standard (stdout output)
+
+~$ prog.sh "user" > resultat.tx ( affiche le doc) (implicitement 1>)
+~$ prog.sh "user" < resultat.tx ( modifier le doc)
+
+~$ prog.sh "user" 2> err.tx ( l'erreur va être enregistre sur un fichier)
+
+
+
+
+
+~$ tache.sh 2>&1 /dev/null (jette les infos et docs (corbeille supprime définitivement) )
+
+~$ prog.sh "user1"> noms.txt (hello user1)
+~$ prog.sh "user2"> noms.txt (hello user2)
+~$ prog.sh "user3">> noms.txt (écrase le fichier précedent)
+
+
+prog.sh [param]-> hello param!
+prog.sh [param]-> ça va param?
+
+prog.sh "user" ) prog?.sh
+
+Liste de tâches:
+
+-créer un fichier test.txt
+-le rendre éxceutable 
+-écrire un programme en  bash "user"
+-renvoyer la sortie standatard (stout) vers noms.txt
+-ystocker 5 noms
+- sortir une version triée des 5 noms
 
 
 
