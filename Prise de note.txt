@@ -71,4 +71,35 @@ Redirection ("pipe")
 echo "bonjour"> index.html
 Site web en utilisant cron et un script, sur un fichier html 
 
+Cours 16/01/2017
+
+Le code doit etre facilement télécharger.
+
+QCM du jeudi
+je veux télecharge un fichier en pdf
+push des fichier, créer des dossiers.
+Insfrastructure Hardware.
+
+Plan du cours: Permissions
+stdin/ stdout/ sterr
+pipe
+Organisation  sys fichiers  Unix
+
+
+
+Mettre à jour les fichiers,
+Installer nginx
+
+Permission de Unix: Utilisateur, groupe, others 
+r= read
+w=write
+x=exécuter un fichier
+
+Utilisateur ( rwx)
+groupe ( r_x)
+others ( r__)
+
+
+
+
 
