@@ -161,6 +161,24 @@ Liste de tâches:
 - sortir une version triée des 5 noms
 
 
+Connexion à git :
+ssh root@178.62.53.220
 
+Afficher la clé ssh:
+ls
+ C:\ Users \ Hassan\ssh
+ less\github_rsaub
+ 
+ 
+ Commande: 
+ nano test.sh (créer un fichier) et afficher le doc
+( #!/bin/bash
+echo "Hello"$*) A l'intérieur du fichier
+ctrl x (pour enresgitre et sortie du fichier)
 
-
+ ls -l test.sh (afficher les permissions rwx)
+ password: alicepahin
+ 
+ 
+ 
+ 
