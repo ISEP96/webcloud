@@ -185,8 +185,8 @@ ctrl x (pour enresgitre et sortie du fichier)
  
  les commentaires en bash commence par #
  
- Sur github: créer un dépôt ( avec un README)
- en local: git clone depot
+ Sur github: créer un dépôt ( avec un README) (sur internet)
+ en local: git clone depot ( git clone git: url du dossier)
  en local: écrire depot .sh
  en local: git add *
  git commit _"message"
@@ -194,6 +194,31 @@ ctrl x (pour enresgitre et sortie du fichier)
  
  sur github : vérifier que le depot.sh
  en local: envoyer le lien du depôt à bzg@bzg.fr
+ 
+ 
+ #!/bin/bash
+ # Replace xxx by the IP of your droplet
+ 
+ [tail -n +3"$0" 
+ set -eu]
+ # update the server
+ apt-get update
+ #upgrade
+ #install nginx ( apt-get install nginx)
+ # send the list of processes to / var/mm/index.htlm
+ ps> /var/mmmm/html/index.html
+ 
+ Synthèse: ( email:)
+ projet github la semaine pro dernier délais.
+ 
+ ecriture du scripte.
+ 
+ Exam: 10 questions ( find, cd, echo, parame, variable en bash, sortie sandtard et entréer standard, permission, les push et pull)
+ Déf: insfrastruture de IAAS, PAAS,SAAS
+  change mode (chmode, chown, sort).
+  
+ 
+ 
  
  
  
