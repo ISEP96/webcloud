@@ -10,3 +10,9 @@ apt-get install gem - y
 gem install jekyll
 
 man p
+
+Lister de processus:
+   Creation du serveurs
+   Exportation du fichier HTML
+   
+   
