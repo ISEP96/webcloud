@@ -222,6 +222,7 @@ ctrl x (pour enresgitre et sortie du fichier)
  
  Le projet est à rendre pour Jeudi 26 avant minuit. 
  
+ Créer un miroir d'un site
  
  
  
