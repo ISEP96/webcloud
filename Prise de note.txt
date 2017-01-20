@@ -218,6 +218,9 @@ ctrl x (pour enresgitre et sortie du fichier)
   change mode (chmode, chown, sort).
   
  
+ Cours en ligne (Coursera): Apprendre comment apprendre: DE PUISSANTS outils mentaux pour vous aider à maîtriser des sujets.
+ 
+ Le projet est à rendre pour Jeudi 26 avant minuit. 
  
  
  
