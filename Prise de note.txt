@@ -1,3 +1,7 @@
+Cours du 09/12/2016:
+
+Explication des commandes:
+
 Ls /etc
 | less : sortie extérieur 
 man less
@@ -40,7 +44,10 @@ git clone HTTPS://github.com/[users]/webcloud]/home/[user].ssh/
 
 Lancer un serveur web, installer engie
 
-Cours du 06/01/2017
+
+Cours du 06/01/2017:
+
+
 les clés SSH secure shell: clé public et clé privé 
 clé public dans le serveurs distant
 En ce connecte de moins en moins avec les password mais de plus en plus avec les clés public et privé pour avoir plus de securité.
@@ -71,7 +78,10 @@ Redirection ("pipe")
 echo "bonjour"> index.html
 Site web en utilisant cron et un script, sur un fichier html 
 
+
+
 Cours 16/01/2017
+
 
 Le code doit etre facilement télécharger.
 
@@ -217,6 +227,7 @@ ctrl x (pour enresgitre et sortie du fichier)
  Déf: insfrastruture de IAAS, PAAS,SAAS
   change mode (chmode, chown, sort).
   
+  Cours du 20/01/2017
  
  Cours en ligne (Coursera): Apprendre comment apprendre: DE PUISSANTS outils mentaux pour vous aider à maîtriser des sujets.
  
