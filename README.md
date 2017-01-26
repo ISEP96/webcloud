@@ -1,18 +1,8 @@
 # webcloud
 
-test
-Hello Hassan
+# Projet sur l'utilisation du git.
 
-apt-get install git
-cd /var/www/html/
-
-apt-get install gem - y
-gem install jekyll
-
-man p
-
-Lister de processus:
-   Creation du serveurs
-   Exportation du fichier HTML
-   
+Membres du groupes:
+      -Alice PAHIN ( identifiant sur git: alicepahin)
+      -Hassan ELMI DAWALE (identifiant sur git: ISEP96)
    
