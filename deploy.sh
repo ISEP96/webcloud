@@ -1,3 +1,7 @@
+#!/bin/bash
+#tail -n +3 "$0" | ssh root@178.62.53.220 ; exit
+#set -eu
+
 # mise à jour de la machine virtuelle 
 apt-get update -y
 apt-get upgrade -y
