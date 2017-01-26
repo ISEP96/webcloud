@@ -12,7 +12,7 @@ apt-get install nginx -y
 apt-get install git -y
 
 cd /var/www/html -y
-git clone https://fr.wikipedia.org/wiki/Commandes_Unix
+git clone https://github.com/ISEP96/webcloud.git
 
 cd /var/www/html/webcloud
 cp index.html /var/www/html/
