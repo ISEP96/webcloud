@@ -1,6 +1,6 @@
 # webcloud
 
-# Projet sur l'utilisation du git.
+# Projet Git.
 
 Membres du groupes:
       -Alice PAHIN ( identifiant sur git: alicepahin)
